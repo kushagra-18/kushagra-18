@@ -1,6 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 - 👨‍💻 I’m currently studying Btech CSE in Gurugram
+- 🔭 I’m currently working on a Computer Vision and Android project
 - 🎨 I love to create ML models and deploy them in Web or Android!
 
 ![Kushagra's github stats](https://github-readme-stats.vercel.app/api?username=kushagra-18&show_icons=true&theme=tokyonight)
