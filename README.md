@@ -2,8 +2,8 @@
 
 I am a self-taught data scientist from India currently working from Hyderabad.
 
-- 👨‍💻 I’m currently working in the [Sustainable Development](https://www.un.org/development/desa/dspd/2030agenda-sdgs.html) sector as Sr. Data Scientist for [DAI](https://www.dai.com/)
-- 🎨 Apart from work, I love canvas painting with palette knife and 🏋️‍♀️ working out in the gym
+- 👨‍💻 I’m currently studying Btech CSE in Gurugram
+- 🎨 I love to create ML models and deploy them in Web or Android!
 
 ![Kushagra's github stats](https://github-readme-stats.vercel.app/api?username=kushagra-18&show_icons=true&theme=dark)
 
@@ -19,7 +19,8 @@ I am a self-taught data scientist from India currently working from Hyderabad.
 [<img alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][vscode]
 [<img alt="Scikit-Learn" width="26px" src="https://simpleicons.org/icons/scikit-learn.svg" />][scikit-learn]
 [<img alt="Keras" width="26px" src="https://simpleicons.org/icons/keras.svg" />][keras]
-[<img alt="Android" width="26px" src="https://simpleicons.org/icons/androidstudio.svg" />][Android-Studio]
+[<img alt="Firebase" width="26px" src="https://simpleicons.org/icons/firebase.svg" />][Firebase]
+[<img alt="Android-Studio" width="26px" src="https://simpleicons.org/icons/androidstudio.svg" />][Android-Studio]
 [<img alt="MSSQL" width="26px" src="https://simpleicons.org/icons/microsoftsqlserver.svg" />][mssql]
 [<img alt="Postgresql" width="26px" src="https://simpleicons.org/icons/postgresql.svg" />][psql]
 [<img alt="MySQL" width="26px" src="https://simpleicons.org/icons/mysql.svg" />][mysql]
@@ -29,7 +30,7 @@ I am a self-taught data scientist from India currently working from Hyderabad.
 [<img alt="Linux" width="26px" src="https://simpleicons.org/icons/linux.svg" />][linux]
 [<img alt="Windows" width="26px" src="https://simpleicons.org/icons/windows.svg" />][windows]
 [<img alt="AWS" width="26px" src="https://simpleicons.org/icons/amazonaws.svg" />][aws]
-[<img alt="Azure" width="26px" src="https://simpleicons.org/icons/microsoftazure.svg" />][azure]
+[<img alt="Android" width="26px" src="https://simpleicons.org/icons/android.svg" />][Android]
 [<img alt="GCP" width="26px" src="https://simpleicons.org/icons/googlecloud.svg" />][gcp]
 [<img alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />][github]
 
