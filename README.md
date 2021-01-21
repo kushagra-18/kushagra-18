@@ -5,9 +5,9 @@ I am a self-taught data scientist from India currently working from Hyderabad.
 - 👨‍💻 I’m currently studying Btech CSE in Gurugram
 - 🎨 I love to create ML models and deploy them in Web or Android!
 
-![Kushagra's github stats](https://github-readme-stats.vercel.app/api?username=kushagra-18&show_icons=true&theme=dark)
+![Kushagra's github stats](https://github-readme-stats.vercel.app/api?username=kushagra-18&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra-18&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra-18&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages, Tools and Platforms:
 [<img alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg" />][python]
