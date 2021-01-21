@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I am a self-taught data scientist from India currently working from Hyderabad.
-
 - 👨‍💻 I’m currently studying Btech CSE in Gurugram
 - 🎨 I love to create ML models and deploy them in Web or Android!
 
