@@ -25,9 +25,8 @@ I am a self-taught data scientist from India currently working from Hyderabad.
 [<img alt="MSSQL" width="26px" src="https://simpleicons.org/icons/microsoftsqlserver.svg" />][mssql]
 [<img alt="Postgresql" width="26px" src="https://simpleicons.org/icons/postgresql.svg" />][psql]
 [<img alt="MySQL" width="26px" src="https://simpleicons.org/icons/mysql.svg" />][mysql]
-[<img alt="Tableau" width="26px" src="https://simpleicons.org/icons/tableau.svg" />][powerbi]
+[<img alt="Tableau" width="26px" src="https://simpleicons.org/icons/tableau.svg" />][tableau]
 [<img alt="HTML5" width="26px" src="https://simpleicons.org/icons/html5.svg" />][html]
-[<img alt="RaspberryPi" width="26px" src="https://simpleicons.org/icons/raspberrypi.svg" />][raspberrypi]
 [<img alt="Linux" width="26px" src="https://simpleicons.org/icons/linux.svg" />][linux]
 [<img alt="Windows" width="26px" src="https://simpleicons.org/icons/windows.svg" />][windows]
 [<img alt="AWS" width="26px" src="https://simpleicons.org/icons/amazonaws.svg" />][aws]
@@ -54,16 +53,18 @@ I am a self-taught data scientist from India currently working from Hyderabad.
 [pycharm]: https://www.jetbrains.com/pycharm/
 [vscode]: https://code.visualstudio.com/
 [sublime]: https://www.sublimetext.com/3
+[VirtualBox]: https://www.virtualbox.org/
 [atom]: https://atom.io/
+[tableau]:https://www.tableau.com/
 [scikit-learn]: https://scikit-learn.org/
 [keras]: https://keras.io/
-[pytorch]: https://pytorch.org/
+[Android-Studio]:https://developer.android.com/
+[Android]:https://developer.android.com/
+[Firebase]:https://firebase.google.com/
 [mssql]: https://www.microsoft.com/en-us/sql-server
 [mysql]: https://www.mysql.com/
 [psql]: https://www.postgresql.org/
-[powerbi]: https://powerbi.microsoft.com/en-us/
 [html]: https://html.com/
-[raspberrypi]: https://www.raspberrypi.org/
 [aws]: https://aws.amazon.com/
 [gcp]: https://cloud.google.com/compute
 [azure]: https://azure.microsoft.com/en-in/
