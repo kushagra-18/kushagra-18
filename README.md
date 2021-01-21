@@ -68,7 +68,7 @@
 [azure]: https://azure.microsoft.com/en-in/
 [linux]: https://www.linux.org/
 [windows]: https://www.microsoft.com/
-[github]: https://github.com/amansingh9097/
+[github]: https://github.com/kushagra-18/
 
 
 <!--
