@@ -24,7 +24,7 @@ I am a self-taught data scientist from India currently working from Hyderabad.
 [<img alt="MSSQL" width="26px" src="https://simpleicons.org/icons/microsoftsqlserver.svg" />][mssql]
 [<img alt="Postgresql" width="26px" src="https://simpleicons.org/icons/postgresql.svg" />][psql]
 [<img alt="MySQL" width="26px" src="https://simpleicons.org/icons/mysql.svg" />][mysql]
-[<img alt="PowerBI" width="26px" src="https://simpleicons.org/icons/powerbi.svg" />][powerbi]
+[<img alt="Tablue" width="26px" src="https://simpleicons.org/icons/tableau.svg" />][powerbi]
 [<img alt="HTML5" width="26px" src="https://simpleicons.org/icons/html5.svg" />][html]
 [<img alt="RaspberryPi" width="26px" src="https://simpleicons.org/icons/raspberrypi.svg" />][raspberrypi]
 [<img alt="Linux" width="26px" src="https://simpleicons.org/icons/linux.svg" />][linux]
