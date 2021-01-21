@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 - 👨‍💻 I’m currently studying Btech CSE in Gurugram
 - 🎨 I love to create ML models and deploy them in Web or Android!
