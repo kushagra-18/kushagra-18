@@ -34,9 +34,9 @@ I am a self-taught data scientist from India currently working from Hyderabad.
 [<img alt="GCP" width="26px" src="https://simpleicons.org/icons/googlecloud.svg" />][gcp]
 [<img alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />][github]
 
-![image title](https://rushter.com/counter.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kushagra-18&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## Connect with me:
 
