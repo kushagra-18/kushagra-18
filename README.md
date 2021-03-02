@@ -4,6 +4,11 @@
 - 🔭 I’m currently working on a Computer Vision and Android project
 - 🎨 I love to create ML models and deploy them in Web or Android!
 
+### 🍕 places you can find me
+<a href="https://linkedin.com/in/kushagra18" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a></a>
+
+![](https://komarev.com/ghpvc/?username=kushagra-18&style=plastic&label=Stalker+Alert) <br>
+
 ![Kushagra's github stats](https://github-readme-stats.vercel.app/api?username=kushagra-18&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra-18&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
